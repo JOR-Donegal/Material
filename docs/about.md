@@ -13,4 +13,4 @@ Retirement is hopefully not too far away! I want the notes in this repo to be av
 
 Contact me via my University e-mail address or via my LinkedIn account.
 
-<img src = "/images/jor-edu.jpg" width="200" height="200">
+<img src = "/docs/images/jor-edu.jpg" width="200" height="200">
