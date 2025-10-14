@@ -8,3 +8,4 @@ Found useful tips on https://www.youtube.com/watch?v=xlABhbnNrfI
 - mkdocs new .
 
 There are samples of mkdocs.yml and lots of goodies in this repo.
+Enjoy!
