@@ -1,8 +1,8 @@
 # About the author
 
-<figure>
+
 <img src = "./images/jor-edu.jpg" width="200" height="200">
-</figure>
+
 
 This GIT account hosts my teaching notes. 
 
