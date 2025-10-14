@@ -12,3 +12,5 @@ After two years of experimentation with my own accounts, this is a new dedicated
 Retirement is hopefully not too far away! I want the notes in this repo to be available to my students after I retire, this is one way to do so.
 
 Contact me via my University e-mail address or via my LinkedIn account.
+
+<img src = "/images/jor-edu.jpg" width="200" height="200">
