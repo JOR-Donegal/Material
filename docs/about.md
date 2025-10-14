@@ -1,7 +1,10 @@
 # About the author
 
 
+<figure>
 <img src = "https://jor-donegal.github.io/Material/images/jor-edu.jpg" width="200" height="200">
+<figcaption>Yup, that is Mount St Helens</figcaption>
+</figure>
 
 This GIT account hosts my teaching notes. 
 
@@ -13,4 +16,3 @@ Retirement is hopefully not too far away! I want the notes in this repo to be av
 
 Contact me via my University e-mail address or via my LinkedIn account.
 
-<img src = "/docs/images/jor-edu.jpg" width="200" height="200">
