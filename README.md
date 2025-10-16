@@ -12,4 +12,5 @@ On Windows: ./venv/Scripts/activate
 - mkdocs new .
 
 There are samples of mkdocs.yml and lots of goodies in this repo.
+Remember to add a YAML file for Actions! 
 Enjoy!
